@@ -1,4 +1,4 @@
-<aura:component controller="lookupfieldController" implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global">
+<aura:component controller="lookupfieldController1" implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global">
     
     <!--attributes--> 
     <aura:attribute name="label" type="string" default=""/>
